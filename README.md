@@ -7,6 +7,7 @@
 ```python
 HR404 = {
     "role": "People Ops & L&D Planner",
+    "mission": "To learn, To teach, To serve",
     "motto": "Working & living AI-native",
     "experience": ["L&D", "Performance Management", "B2B Relations"],
     "focus": [
