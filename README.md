@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Uploading hr404lab_d51b2c2a.gif…]()
+
 - 🔭 I'm currently working on HR Automation
 
 ```python
