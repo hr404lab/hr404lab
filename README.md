@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Uploading hr404lab_d51b2c2a.gif…]()
+<img width="640" height="360" alt="hr404lab_neon" src="https://github.com/user-attachments/assets/82aa4af6-de59-41af-adff-62a4295e3679" />
 
 - 🔭 I'm currently working on HR Automation
 
