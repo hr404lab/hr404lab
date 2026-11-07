@@ -18,6 +18,6 @@ HR404 = {
     "code": ["Python"],
     "stack": ["Claude Code", "Codex", "VS Code", "MCP", "pandas"],
     "next": ["HR AI Agent"],
-    "⚡fun_fact": "15년간 사람의 성장을 설계하다 요즘은 내 코드 디버깅 중 🐛",
+    "⚡fun_fact": "사람과 사람의 접점에서 프로세스를 설계해 온 사람, 요즘은 사람과 기술의 접접을 실험 중 🐛",
 }
 ```
